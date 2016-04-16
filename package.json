@@ -1,0 +1,12 @@
+{
+  "name": "Furniture-Catalog",
+  "version": "1.1.0",
+  "repository": "https://github.com/andy-pro/Furniture-Catalog",
+  "description": "Furniture Catalog",
+  "main": "index.js",
+  "author": "andy-pro",
+  "dependencies": {
+    "gm": "*",
+    "colors": "*"
+  }
+}
